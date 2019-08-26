@@ -20,7 +20,8 @@ namespace MultiThreadTestConsoleApp
             //IOThreadTest.TestRun();
             //IOThreadTest2.TestRun();
             //ThreadSynchronizedTest1.TestRun();
-            EventWaitHandleTest.TestRun();
+            //EventWaitHandleTest.TestRun();
+            TAPOrAPMOrEAPTest2.TestRun();
         }
     }
 }
