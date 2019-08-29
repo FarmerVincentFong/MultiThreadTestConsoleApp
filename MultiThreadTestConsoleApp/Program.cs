@@ -23,7 +23,8 @@ namespace MultiThreadTestConsoleApp
             //EventWaitHandleTest.TestRun();
             //SemaphoreAndMutexTest.TestRun();
             //多线程转换图片格式
-            BatchConvertBMPToJPG.StartTransform();
+            //BatchConvertBMPToJPG.StartTransform();
+            TAPToAPMToEAP.TestRun();
         }
     }
 }
