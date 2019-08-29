@@ -5,7 +5,11 @@ VisualStudioVersion = 14.0.25420.1
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MultiThreadTestConsoleApp", "MultiThreadTestConsoleApp\MultiThreadTestConsoleApp.csproj", "{CC40BB0F-CA38-4BB0-BA74-6EBB639B3CCB}"
 EndProject
+<<<<<<< HEAD
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "APMTest", "AsyncAndAwaitTest\APMTest.csproj", "{1AE6EAFC-2AA4-4D4B-A3B3-ACA83A396F84}"
+=======
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AsyncPatternTest1", "AsyncPatternTest1\AsyncPatternTest1.csproj", "{BD466834-61C0-47ED-AD62-51A20A2931DF}"
+>>>>>>> 0207b2a92600af6e28d0c95cfbca4c13b32de390
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -17,10 +21,17 @@ Global
 		{CC40BB0F-CA38-4BB0-BA74-6EBB639B3CCB}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{CC40BB0F-CA38-4BB0-BA74-6EBB639B3CCB}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{CC40BB0F-CA38-4BB0-BA74-6EBB639B3CCB}.Release|Any CPU.Build.0 = Release|Any CPU
+<<<<<<< HEAD
 		{1AE6EAFC-2AA4-4D4B-A3B3-ACA83A396F84}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{1AE6EAFC-2AA4-4D4B-A3B3-ACA83A396F84}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1AE6EAFC-2AA4-4D4B-A3B3-ACA83A396F84}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1AE6EAFC-2AA4-4D4B-A3B3-ACA83A396F84}.Release|Any CPU.Build.0 = Release|Any CPU
+=======
+		{BD466834-61C0-47ED-AD62-51A20A2931DF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BD466834-61C0-47ED-AD62-51A20A2931DF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BD466834-61C0-47ED-AD62-51A20A2931DF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BD466834-61C0-47ED-AD62-51A20A2931DF}.Release|Any CPU.Build.0 = Release|Any CPU
+>>>>>>> 0207b2a92600af6e28d0c95cfbca4c13b32de390
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

@@ -21,10 +21,12 @@ namespace MultiThreadTestConsoleApp
             //IOThreadTest2.TestRun();
             //ThreadSynchronizedTest1.TestRun();
             //EventWaitHandleTest.TestRun();
+            // TAPOrAPMOrEAPTest2.TestRun();
             //SemaphoreAndMutexTest.TestRun();
             //多线程转换图片格式
             //BatchConvertBMPToJPG.StartTransform();
-            TAPToAPMToEAP.TestRun();
+            //TAPToAPMToEAP.TestRun();
+            // BatchConvertBMPToJPG.StartTransform();
         }
     }
 }
