@@ -27,6 +27,10 @@ namespace MultiThreadTestConsoleApp
             //BatchConvertBMPToJPG.StartTransform();
             //TAPToAPMToEAP.TestRun();
             // BatchConvertBMPToJPG.StartTransform();
+            //ParallelTest.TestRun(); //并行库
+            //ParallelTest.TestRun2(); //并行库
+            ParallelTest.TestRun3(); //并行库
+
         }
     }
 }

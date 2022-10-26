@@ -46,10 +46,11 @@
   <ItemGroup>
     <Compile Include="APMTest1.cs" />
     <Compile Include="BatchConvertBMPToJPG.cs" />
-    <Compile Include="Extensions\Class1.cs" />
+    <Compile Include="Extensions\BitmapExtensions.cs" />
     <Compile Include="EventWaitHandleTest.cs" />
     <Compile Include="IOThreadTest2.cs" />
     <Compile Include="IOThreadTest.cs" />
+    <Compile Include="ParallelTest.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="TAPOrAPMOrEAPTest2.cs" />
